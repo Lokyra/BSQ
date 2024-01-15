@@ -1,1 +1,1 @@
-## Find biggest square while avoiding obstacles
+## Usage
