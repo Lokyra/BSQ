@@ -33,3 +33,8 @@ make
 ..o.......o................
 
 ```
+## Map generation
+You can generate a map instead of passing one in parameter
+```
+
+```
