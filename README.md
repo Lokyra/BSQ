@@ -34,7 +34,12 @@ make
 
 ```
 ## Map generation
-You can generate a map instead of passing one in parameter
+You can generate a map instead of passing one in parameter.
+To do so you have to first compile the program
+```
+make
+```
+and run it precising the number of lines and the pattern of your square
 ```
 
 ```
