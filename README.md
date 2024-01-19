@@ -39,7 +39,26 @@ To do so you have to first compile the program
 ```
 make
 ```
-and run it precising the number of lines and the pattern of your square
+and run it specifying the number of lines and the pattern of your square
 ```
+./bsq 10 "..ooo.."
+```
+```
+..oooxx..ooo...
+.ooo.xx.ooo....
+ooo....ooo....o
+oo....ooo....oo
+o....ooo....ooo
+....ooo....ooo.
+...ooo....ooo..
+..ooo....ooo...
+.ooo....ooo....
+ooo....ooo....o
+oo....ooo....oo
+o....ooo....ooo
+....ooo....ooo.
+...ooo....ooo..
+..ooo....ooo...
 
 ```
+
